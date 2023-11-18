@@ -1,0 +1,27 @@
+  @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Lobster&family=Pacifico&display=swap');
+
+  #root {
+  /* max-width: 1280px; */
+  /* text-align: center; */
+  margin: 0 auto;
+  padding: 0;
+  /* font-family: 'Cabin Sketch', sans-serif;
+  font-family: 'Lobster', sans-serif;
+  font-family: 'Pacifico', cursive; */
+} 
+
+.flex{
+  margin: 0 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 3rem;
+}
+div{
+  margin: 0 auto;
+  padding-top: 4rem;
+  width: 75%;
+  height: 70vh;
+  border-radius: 10px;
+}
+
